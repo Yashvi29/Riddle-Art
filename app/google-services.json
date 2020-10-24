@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149642560208",
+    "firebase_url": "https://child-draw.firebaseio.com",
+    "project_id": "child-draw",
+    "storage_bucket": "child-draw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149642560208:android:22751f842be0c1638c14d5",
+        "android_client_info": {
+          "package_name": "com.example.childdraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149642560208-l3mvmfl2dcrc69ger47n3pgugbtesskd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.childdraw",
+            "certificate_hash": "f759fe3c47b9ef818014408fda96d01de4cd0148"
+          }
+        },
+        {
+          "client_id": "149642560208-690n1f0k7e99mlaj0nml0fbsqgjnlugb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXFuALK-z_4yb4Dj8EbIAurTTUUBFBy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149642560208-690n1f0k7e99mlaj0nml0fbsqgjnlugb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
